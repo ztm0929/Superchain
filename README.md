@@ -64,7 +64,8 @@ OP 中文力量 Telegram: https://t.me/optimism_cn/1
 
 **第 2 周：实操环节：超级链分析（随机挑选 5 个超级链进行整体分析，分析应用，生态位）**
 
-**Superchain:** Optimism, Base, Soneium, Unichain, Mint, Hashkey, Ink, Zora, Mode, BOB,Cyber, Redstone, WorldChain.etc
+**Superchain**: Optimism, Base, Soneium, Unichain, Mint, Hashkey, Ink, Zora, Mode, BOB,Cyber, Redstone, WorldChain.etc
+**Adoption**: Velodrome, Aelodrome, Sonex, Pendle, Extra Finance, Ironclad Finance,etc…
 打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
 
 ## 更多信息
