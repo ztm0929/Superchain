@@ -2,63 +2,73 @@
 
 > 本文档为创建残酷共学的通用模版 - 中文版，请根据模版结构来进行你的残酷共学的内容填充，请将 {} 内容进行替换
 
-# {残酷共学名称} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
+# {超级链残酷共学} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
 
 ## 介绍
 
-{残酷共学的介绍}
+{超级链残酷共学由 LXDAO，OP 中文力量，ETHPanda, BankelessCN 共同发起，将系统的学习到什么是超级链，如何成为超级链，包括体验超级链的应用}
 
 ## 关键词
 
-{残酷共学的关键词 tag，能够让参与者比较快速的搜索和定位到你的这个残酷共学，比如 DeFi，DAO，English 等，请用英文，并用英文的逗号（,）分隔}
+{Superchain, Op Stack, DAO, DeFi}
 
 ## 面向人群
 
-{残酷共学主要的受众人群，比如是专门针对程序员的，那么没有这方面技能和经验的人就可以不参加}
+{任何想了解超级链的人群，不论你是初学者还是富有经验的区块链老手，都可以参与到这个学习当中}
 
 ## 报名时间
 
-- 开始时间：{报名开始时间，格式：yyyy-mm-dd，例子：2025-11-01}
-- 结束时间：{报名结束时间，格式：yyyy-mm-dd，例子：2025-11-01}
+- 开始时间：{2025-03-24}
+- 结束时间：{2025-03-30}
 
 ## 共学时间
 
-- 开始时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2025-11-01}
-- 结束时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2025-11-01}
+- 开始时间：{2025-03-31}
+- 结束时间：{2025-04-12}
 
 ## 发起人
 
-- 姓名：{残酷共学发起人名字}
-- GitHub ID：{残酷共学发起人 GitHub ID}
-- Telegram：{残酷共学发起人 Telegram ID}
-- Email：{残酷共学发起人 email}
+- 姓名：{Marcus}
+- GitHub ID：{MRzzz-cyber}
+- Telegram：{@marcuszheng}
+- Email：{zqsanjingshou@gmail.com}
 
 ## 发起组织
 
-- {残酷共学发起组织方，可以是多个，请按以下格式将组织名称、link 和 logo 填好}
-  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+- [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+- [OP 中文力量](https://x.com/optimismzh) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/fd6ab062-09e5-4fe0-b6c4-e476e632e1d1.png" />
+- [ETHPanda](https://ethpanda.org/) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/10aed40b-4786-4c2b-aaaa-b7d8a119c00e.png" />
+- [BanklessCN](https://0xbanklesscn.substack.com/) <img alt="organization-logo" height="60px" src="https://cdn.lxdao.io/79379614-a82a-4d41-93ca-9e050b3d3a5c.png" />
 
 ## 请假规则
 
-每周请假 {请假次数，数字} 次
+每周请假 {2} 次
 
 ## 社群
 
-Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内容}
+学习交流 Telegram：https://t.me/LXDAO/23125
+OP 中文力量 Telegram: https://t.me/optimism_cn/1
 
 ## 学习资料/课程安排
 
-{这部分内容是直接用 markdown 格式来编写，默认学习资料是一定要提供的，如果有导师线上上课，需要提供课程安排以及导师信息}
+这一轮，极重体验！极重实操！边学边玩，我们将系统玩遍超级链上的应用，发现好玩有趣的应用并整理一些感受，同时，我们将通过边玩边学的方式去系统的学习超级链和体验超级链上的应用
+我们将会在中途邀请神秘嘉宾来分享超级链应用
 
 ## 共学激励
 
-{这部分内容是直接用 markdown 格式来编写，激励不是必须的，如果没有激励设置，也可以不写，或者写几句激励的话都可以}
-{以下是残酷共学目前已有的福利，建议保留}
+**第一周：什么是超级链，如何成为超级链**
+
+**标准汇总章程**:https://gov.optimism.io/t/season-6-introducing-blockspace-charters-superchain-first-governance/8133
+
+**超级链注册中心**:https://github.com/ethereum-optimism/superchain-registry/blob/main/docs/ops.md
+
+**第 2 周：实操环节：超级链分析（随机挑选 5 个超级链进行整体分析，分析应用，生态位）**
+
+**Superchain:** Optimism, Base, Soneium, Unichain, Mint, Hashkey, Ink, Zora, Mode, BOB,Cyber, Redstone, WorldChain.etc
 打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
 
 ## 更多信息
-
-{这部分内容是直接用 markdown 格式来编写，也不是必须的，这部分是如果有信息上面模块没有覆盖到，可以写在这里}
+无
 
 ## 报名和打卡规则
 
