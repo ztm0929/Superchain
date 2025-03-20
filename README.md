@@ -1,34 +1,34 @@
 
-# {超级链残酷共学} 
+# 超级链残酷共学
 
 ## 介绍
 
-{超级链残酷共学由 LXDAO，OP 中文力量，ETHPanda, BankelessCN 共同发起，将系统的学习到什么是超级链，如何成为超级链，包括体验超级链的应用}
+超级链残酷共学由 LXDAO，OP 中文力量，ETHPanda, BankelessCN 共同发起，将系统的学习到什么是超级链，如何成为超级链，包括体验超级链的应用
 
 ## 关键词
 
-{Superchain, Op Stack, DAO, DeFi}
+Superchain, Op Stack, DAO, DeFi
 
 ## 面向人群
 
-{任何想了解超级链的人群，不论你是初学者还是富有经验的区块链老手，都可以参与到这个学习当中}
+任何想了解超级链的人群，不论你是初学者还是富有经验的区块链老手，都可以参与到这个学习当中
 
 ## 报名时间
 
-- 开始时间：{2025-03-24}
-- 结束时间：{2025-03-30}
+- 开始时间：2025-03-24
+- 结束时间：2025-03-30
 
 ## 共学时间
 
-- 开始时间：{2025-03-31}
-- 结束时间：{2025-04-12}
+- 开始时间：2025-03-31
+- 结束时间：2025-04-12
 
 ## 发起人
 
-- 姓名：{Marcus}
-- GitHub ID：{MRzzz-cyber}
-- Telegram：{@marcuszheng}
-- Email：{zqsanjingshou@gmail.com}
+- 姓名：Marcus
+- GitHub ID：MRzzz-cyber
+- Telegram：@marcuszheng
+- Email：zqsanjingshou@gmail.com
 
 ## 发起组织
 
