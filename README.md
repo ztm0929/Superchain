@@ -69,7 +69,10 @@ OP 中文力量 Telegram: https://t.me/optimism_cn/1
 打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
 
 ## 更多信息
-无
+
+https://www.superchain.eco/superchain-index
+
+https://defillama.com/chains
 
 ## 报名和打卡规则
 
