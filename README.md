@@ -51,8 +51,6 @@ OP 中文力量 Telegram: https://t.me/optimism_cn/1
 这一轮，极重体验！极重实操！边学边玩，我们将系统玩遍超级链上的应用，发现好玩有趣的应用并整理一些感受，同时，我们将通过边玩边学的方式去系统的学习超级链和体验超级链上的应用
 我们将会在中途邀请神秘嘉宾来分享超级链应用
 
-## 共学激励
-
 **第一周：什么是超级链，如何成为超级链**
 
 **标准汇总章程**:https://gov.optimism.io/t/season-6-introducing-blockspace-charters-superchain-first-governance/8133
@@ -64,6 +62,10 @@ OP 中文力量 Telegram: https://t.me/optimism_cn/1
 **Superchain**: Optimism, Base, Soneium, Unichain, Mint, Hashkey, Ink, Zora, Mode, BOB,Cyber, Redstone, WorldChain.etc
 **Adoption**: Velodrome, Aelodrome, Sonex, Pendle, Extra Finance, Ironclad Finance,etc…
 打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
+
+
+## 共学激励
+学习完成后，我们将评选出一篇优质文章，给与 OP 奖励
 
 ## 更多信息
 
