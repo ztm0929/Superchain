@@ -39,7 +39,7 @@ Superchain, Op Stack, DAO, DeFi
 
 ## 请假规则
 
-每周请假 {2} 次
+每周请假 2 次
 
 ## 社群
 
