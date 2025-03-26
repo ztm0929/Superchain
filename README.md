@@ -43,8 +43,7 @@ Superchain, Op Stack, DAO, DeFi
 
 ## 社群
 
-学习交流 Telegram：https://t.me/LXDAO/23125
-OP 中文力量 Telegram: https://t.me/optimism_cn/1
+Telegram：https://t.me/LXDAO/23125
 
 ## 学习资料/课程安排
 
