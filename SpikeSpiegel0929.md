@@ -7,8 +7,8 @@ timezone: UTC+8
 
 # 你的名字
 
-1. 自我介绍
-2. 你认为你会完成本次残酷学习吗？
+1. SpikeSpiegel made in future
+2. 你认为你会完成本次残酷学习吗？会
 3. 你的联系方式（推荐 Telegram）
 
 ## Notes
