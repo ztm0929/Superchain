@@ -35,5 +35,19 @@ timezone: UTC+8
    -  (这部分没太看懂，明天继续研究)允许将一些初始链加入第一阶段安全理事会和超级链注册表
 
 ### 2025.04.01
+**重读OP Stack及OP Superchain文档**
+#### OP Stack
+**文章：[Getting started with the OP Stack](https://docs.optimism.io/stack/getting-started)**
+- 定义：OP Stack 是一个标准化、共享和开源的开发堆栈，为 Optimism 提供支持，由 Optimism Collective 维护。OP Stack 是支持 Optimism 的所有软件。随着 Optimism 的发展，OP Stack 也将不断发展。
+- OP Stack 可以被视为软件组件，它既可以帮助定义 Optimism 生态系统的特定层，也可以在现有层中充当模块的角色。 尽管 OP Stack 目前的核心是运行 L2 区块链的基础设施，但 OP Stack 理论上可以扩展到底层区块链之上的层，包括区块浏览器、消息传递机制、治理系统等工具。
+- 可以理解OP Stack是包含所有OP相关的开发组件，而Superchain是其中一部分。
+
+#### Superchain
+**文章：[Superchain Explainer](https://docs.optimism.io/superchain/superchain-explainer)**
+- 继 Bedrock 之后，OP Stack 的下一个重大可扩展性改进是引入**超级链(Superchain)的概念**：共享Bridge、DAO、Upgrade、通信层等的链网络，所有这些都构建在 OP Stack 上。Superchain可以实现将把 OP 主网和其他链合并到一个统一的 OP 链网络（即超级链内的链）中。
+- 超级链是一个 L2 链网络，称为 OP 链，共享安全性、通信层和开源技术堆栈。然而，与多链设计不同，这些链是标准化的，旨在用作可互换的资源。这使得开发人员能够构建以整个超级链为目标的应用程序，并抽象出应用程序运行的底层链。
+- Bedrock引入了SystemConfig合约，开始直接用L1智能合约定义一些L2链。这可以扩展为将定义 L2 的所有信息放在 L1 上。包括生成唯一的链ID、区块gas limit等关键配置值等。
+- (4.1 备注：未完待续)
+
 
 <!-- Content_END -->
