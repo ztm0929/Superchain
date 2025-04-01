@@ -60,11 +60,10 @@ Telegram：https://t.me/LXDAO/23125
 
 **Superchain**: Optimism, Base, Soneium, Unichain, Mint, Hashkey, Ink, Zora, Mode, BOB,Cyber, Redstone, WorldChain.etc
 **Adoption**: Velodrome, Aelodrome, Sonex, Pendle, Extra Finance, Ironclad Finance,etc…
-打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
-
 
 ## 共学激励
-学习完成后，我们将评选出一篇优质文章，给与 20 OP 奖励
+- 学习完成后，我们将评选出一篇优质文章，给与 20 OP 奖励
+- 打卡成功者福利：https://lxdao.notion.site/3eab258b4df44c9cb97319452b2be13b
 
 ## 更多信息
 
