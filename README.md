@@ -103,27 +103,39 @@ https://defillama.com/chains
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
-
-| Name | 3.31 | 4.01 | 4.02 | 4.03 | 4.04 | 4.05 | 4.06 | 4.07 | 4.08 | 4.09 | 4.10 | 4.11 | 4.12 | 4.13 | 4.14 | 4.15 | 4.16 | 4.17 | 4.18 | 4.19 | 4.20 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-
+| Name | 3.31 | 4.01 | 4.02 | 4.03 | 4.04 | 4.05 | 4.06 | 4.07 | 4.08 | 4.09 | 4.10 | 4.11 | 4.12 |
+| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [wodeche](https://github.com/IntensiveCoLearning/Superchain/blob/main/wodeche.md) | ⭕️ |   | | | | | | | | | | | |
+| [nx-xn2002](https://github.com/IntensiveCoLearning/Superchain/blob/main/nx-xn2002.md) | ✅ |   | | | | | | | | | | | |
+| [wyeeeh](https://github.com/IntensiveCoLearning/Superchain/blob/main/wyeeeh.md) | ✅ |   | | | | | | | | | | | |
+| [stephanie797](https://github.com/IntensiveCoLearning/Superchain/blob/main/stephanie797.md) | ✅ |   | | | | | | | | | | | |
+| [MRzzz-cyber](https://github.com/IntensiveCoLearning/Superchain/blob/main/MRzzz-cyber.md) | ✅ |   | | | | | | | | | | | |
+| [WANgrunnzl](https://github.com/IntensiveCoLearning/Superchain/blob/main/WANgrunnzl.md) | ✅ |   | | | | | | | | | | | |
+| [Soleil_YSY](https://github.com/IntensiveCoLearning/Superchain/blob/main/Soleil_YSY.md) | ⭕️ |   | | | | | | | | | | | |
+| [yushiwuzheng666](https://github.com/IntensiveCoLearning/Superchain/blob/main/yushiwuzheng666.md) | ✅ |   | | | | | | | | | | | |
+| [tuwu233](https://github.com/IntensiveCoLearning/Superchain/blob/main/tuwu233.md) | ⭕️ |   | | | | | | | | | | | |
+| [Elorze](https://github.com/IntensiveCoLearning/Superchain/blob/main/Elorze.md) | ✅ |   | | | | | | | | | | | |
+| [SpikeSpiegel0929](https://github.com/IntensiveCoLearning/Superchain/blob/main/SpikeSpiegel0929.md) | ⭕️ |   | | | | | | | | | | | |
+| [CloverSurrey](https://github.com/IntensiveCoLearning/Superchain/blob/main/CloverSurrey.md) | ✅ |   | | | | | | | | | | | |
+| [Meta11ic0](https://github.com/IntensiveCoLearning/Superchain/blob/main/Meta11ic0.md) | ✅ |   | | | | | | | | | | | |
+| [yyhatb](https://github.com/IntensiveCoLearning/Superchain/blob/main/yyhatb.md) | ✅ |   | | | | | | | | | | | |
+| [xiao1shen](https://github.com/IntensiveCoLearning/Superchain/blob/main/xiao1shen.md) | ✅ |   | | | | | | | | | | | |
+| [CHENFANGC](https://github.com/IntensiveCoLearning/Superchain/blob/main/CHENFANGC.md) | ⭕️ |   | | | | | | | | | | | |
+| [JiangQan](https://github.com/IntensiveCoLearning/Superchain/blob/main/JiangQan.md) | ✅ |   | | | | | | | | | | | |
+| [hikaae](https://github.com/IntensiveCoLearning/Superchain/blob/main/hikaae.md) | ✅ |   | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
 
+
 <!-- STATISTICALDATA_START -->
+## 统计数据
+
+- 总参与人数: 0
+- 完成人数: 0
+- 完成用户: 
+- 全勤用户: 
+- 淘汰人数: 0
+- 淘汰率: 0.00%
+- Fork人数: 0
 <!-- STATISTICALDATA_END -->
 
 <!-- END_COMMIT_TABLE -->
