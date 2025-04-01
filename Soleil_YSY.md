@@ -9,7 +9,7 @@ timezone: UTC+8
 
 1. 自我介绍：清酒
 2. 你认为你会完成本次残酷学习吗？：会
-3. 你的联系方式（推荐 Telegram）：TG@Soleil_Yi
+3. 你的联系方式（推荐 Telegram）：TG[@Soleil_Yi](https://t.me/Soleil_Yi)
 
 ## Notes
 

@@ -9,7 +9,7 @@ timezone: UTC+8
 
 1. 自我介绍
 2. 你认为你会完成本次残酷学习吗？当然，必须
-3. @marcuszheng
+3. [@marcuszheng](https://t.me/Marcuszheng)
 
 ## Notes
 

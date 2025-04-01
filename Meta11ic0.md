@@ -9,7 +9,7 @@ timezone: UTC+8
 
 1. 自我介绍 Johnny
 2. 你认为你会完成本次残酷学习吗？ 会努力的
-3. 你的联系方式（推荐 Telegram）@J0hmy
+3. 你的联系方式（推荐 Telegram）[@J0hmy](https://t.me/J0hmy)
 
 ## Notes
 

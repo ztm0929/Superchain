@@ -12,7 +12,7 @@ timezone: UTC+8
 2. 你认为你会完成本次残酷学习吗？
    会，很有信心。
 3. 你的联系方式（推荐 Telegram）
-  telegram:Id: 7851916301
+  telegram:[Id: 7851916301](https://t.me/Elorze)
   微信号：Elorze_2270938474
 
 ## Notes

@@ -16,7 +16,7 @@ timezone: UTC+8
 
 3. 你的联系方式（推荐 Telegram）
 
-- @chenfangc
+- [@chenfangc](https://t.me/chenfangc)
 
 ## Notes
 
