@@ -98,8 +98,6 @@ https://defillama.com/chains
 
 ## 残酷共学打卡记录表
 
-## 残酷共学打卡记录表
-
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
